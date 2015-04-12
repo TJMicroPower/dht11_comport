@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dht11_comport", "dht11_comport\dht11_comport.csproj", "{F1E5FE82-51CA-4671-B2B0-CAA692ABD8DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1E5FE82-51CA-4671-B2B0-CAA692ABD8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E5FE82-51CA-4671-B2B0-CAA692ABD8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E5FE82-51CA-4671-B2B0-CAA692ABD8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E5FE82-51CA-4671-B2B0-CAA692ABD8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
