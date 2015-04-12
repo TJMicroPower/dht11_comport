@@ -1,5 +1,4 @@
 # DHT11 C# Command Line Reader
 ![alt tag](http://i.imgur.com/6qBRruX.png)
 
-DHT11 sensörü için yapılmış olan bu ufak uygulama sayesinde, DHT11'in elde ettiği ısı, nem, sıcaklık indeksi gibi değerleri öğrenebilirsiniz. 
-Özellikle değerlere bakmak istediğiniz bilgisayarda Arduino IDE yoksa kolaylıkla bu ufak yazılım sayesinde değerlere Serial Monitor mantığı ile ulaşabilirsiniz.
+DHT11 sensörü için yapmış olduğum bu ufak C# uygulaması sayesinde kolaylıkla DHT11 sensörünün okumuş olduğu verilere ulaşabilirsiniz. Özellikle değerlere bakmak istemiş olduğunuz bilgisayarda Arduino IDE yazılımı yoksa bu ufak uygulama ile değerlere ulaşabilirsiniz.
